@@ -25,18 +25,19 @@ Then navigate to the root of the project and run the following command:
 
 Link to the vido tutorial can be found here:
 
-
+https://youtu.be/mhWoWaTNyXg
 
 
 ## Screenshots
 
+![2 (5)](https://user-images.githubusercontent.com/82734765/145659838-79101d3f-54e8-42a9-b473-d06b28b9c5bf.JPG)
 
-
+![3 (2)](https://user-images.githubusercontent.com/82734765/145659844-834333c1-a74d-4c39-ae20-e0e686f21e34.JPG)
 
 
 ## License
 
-This project is covered under the MIT License: License: MIT
+This project is covered under the MIT License: `License: MIT`
 
 
 
